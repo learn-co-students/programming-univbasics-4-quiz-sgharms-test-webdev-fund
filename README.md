@@ -11,9 +11,9 @@
 
 ?: Which syntax can be used to make a new, empty `Array`?
 
-( ) ```Array.new```
-( ) ```new_array```
-( ) ```new_array = []```
+( ) `Array.new`
+( ) `new_array`
+( ) `new_array = []`
 (X) Both A and C
 
 ?: Which syntax can be used to add items to an `Array`?
